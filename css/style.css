@@ -1,0 +1,21 @@
+nav {
+  margin-bottom: 1em !important;
+}
+
+.cart {
+  box-shadow: 0 0 5px #DDD;
+  padding: 20px;
+}
+
+.displayProducts{
+  background-color: #c80815;
+  padding: 10px;
+  margin-top: 10px;
+  color: yellow;
+  border: 3px solid yellow;
+  display: none;
+}
+
+.blockingDisplay{
+  display: none;
+}
