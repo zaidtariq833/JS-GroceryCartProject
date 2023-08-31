@@ -13,9 +13,5 @@ nav {
   margin-top: 10px;
   color: yellow;
   border: 3px solid yellow;
-  display: none;
-}
-
-.blockingDisplay{
-  display: none;
+  /* display: none; */
 }
